@@ -1,0 +1,10 @@
+{
+  "name": "generator-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "roy",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.13.0"
+  }
+}
